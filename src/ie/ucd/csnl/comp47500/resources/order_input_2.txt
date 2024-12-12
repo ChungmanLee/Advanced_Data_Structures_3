@@ -1,0 +1,100 @@
+mug building,Material Handling,80529,Tracy,679828
+mug building,Process Improvement,165604,Avery,793486
+clothing,Inventory Management,19623,Pat,815290
+mug building,Process Improvement,417201,Carmen,518431
+photo making,Equipment Maintenance,621429,Jessie,499035
+clothing,Shipping and Receiving,287004,Marion,243204
+photo making,Human Resources Management,236008,Bailey,144240
+card printing,Human Resources Management,815720,Andy,413743
+clothing,Strategic Planning,866112,Tyler,600327
+pens printing,Production Planning,655942,Casey,630241
+card printing,Quality Control Inspection,68933,Cameron,287406
+clothing,Shipping and Receiving,316170,Ari,899653
+photo making,IT Management and Support,518588,Terry,29746
+card printing,Customer Service,967442,Brooke,939628
+clothing,Equipment Maintenance,244486,Charlie,301801
+mug building,Strategic Planning,148301,Casey,896583
+card printing,Environmental Compliance,392337,Sage,987988
+photo making,Process Improvement,509078,Morgan,629320
+photo making,Environmental Compliance,394338,Kim,252922
+photo making,Assembly Line Work,34636,Tracy,895491
+clothing,Research and Development,342110,Sidney,922208
+card printing,Material Handling,635702,Terry,492349
+card printing,Strategic Planning,740994,Dakota,992291
+mug building,Strategic Planning,459877,Alexis,897751
+pens printing,Production Planning,638499,Brandy,790737
+pens printing,Process Improvement,777199,Remy,712710
+clothing,Equipment Maintenance,343973,Andy,821187
+clothing,Material Handling,808396,Devin,621547
+clothing,Material Handling,119243,Brook,902081
+mug building,Shipping and Receiving,294741,Aubrey,785625
+card printing,Production Planning,637190,Robin,653373
+clothing,Safety Compliance,444629,Sage,45660
+pens printing,Environmental Compliance,188712,Kim,543617
+card printing,Shipping and Receiving,88907,Pat,235564
+photo making,Customer Service,260572,Avery,720599
+clothing,IT Management and Support,656747,Kerry,815557
+photo making,Financial Planning and Budgeting,187579,Brooke,429028
+mug building,Financial Planning and Budgeting,778750,Jessie,681897
+mug building,Process Improvement,710781,Taylor,300093
+photo making,Assembly Line Work,174607,Ali,459891
+pens printing,Production Planning,993864,Brooke,697551
+mug building,Supply Chain Management,694066,Tracy,911273
+clothing,Financial Planning and Budgeting,691335,Pat,481296
+photo making,Waste Management,385560,Sydney,964531
+clothing,Material Handling,664526,Kerry,704591
+clothing,Human Resources Management,711735,Angel,348435
+mug building,Quality Control Inspection,196078,Kim,22439
+photo making,Packaging,835551,Bobbie,580665
+photo making,Material Handling,243697,Dakota,213539
+clothing,Supply Chain Management,448670,Sidney,800735
+mug building,IT Management and Support,598592,Logan,482151
+card printing,IT Management and Support,315961,Tony,610308
+mug building,Customer Service,295032,Kim,33216
+mug building,Shipping and Receiving,958160,Joss,774858
+card printing,Production Planning,382549,Lee,181500
+pens printing,Waste Management,599496,Alex,671854
+photo making,Process Improvement,377366,Gabby,239480
+pens printing,IT Management and Support,831520,Cameron,575260
+mug building,Inventory Management,117484,Dakota,276299
+card printing,Product Design,560386,Sydney,507057
+pens printing,Process Improvement,341858,Cameron,933338
+card printing,Research and Development,137146,Kerry,973188
+mug building,Customer Service,241772,Bobbie,615388
+mug building,Packaging,743459,Adrian,215815
+card printing,Customer Service,445765,Riley,660776
+mug building,Supply Chain Management,61372,Robin,455817
+pens printing,Machine Operation,636794,Bobbie,828009
+photo making,Equipment Maintenance,799911,Kelly,701208
+pens printing,Product Design,97760,Ari,191766
+photo making,Quality Control Inspection,671050,Skyler,880399
+pens printing,Customer Service,542451,Shannon,404478
+pens printing,Environmental Compliance,254216,Sage,982055
+photo making,IT Management and Support,177446,Alex,365335
+card printing,Shipping and Receiving,509364,Brett,130250
+card printing,Training and Development,968211,Jamie,651368
+pens printing,Customer Service,705862,Ricky,532567
+photo making,Supply Chain Management,635440,Kendall,898007
+mug building,Training and Development,502139,Peyton,760187
+mug building,Packaging,509373,Reese,144569
+card printing,Product Design,474612,Blair,957263
+mug building,Financial Planning and Budgeting,661368,Terry,43337
+photo making,Supply Chain Management,630791,Marion,585370
+pens printing,Quality Control Inspection,262559,Cassidy,626689
+mug building,Shipping and Receiving,174745,Nicky,227290
+clothing,Research and Development,990122,Logan,530830
+pens printing,Facility Management,773659,Marion,671492
+card printing,Process Improvement,490590,Tyler,739551
+mug building,Environmental Compliance,790440,Remy,837672
+pens printing,IT Management and Support,873125,Cameron,780965
+clothing,Sales and Marketing,994997,Sam,384388
+photo making,Equipment Maintenance,201472,Avery,100594
+clothing,Sales and Marketing,397380,Bobby,82202
+clothing,Financial Planning and Budgeting,599358,Avery,221853
+pens printing,Facility Management,950170,Jules,774935
+clothing,Facility Management,509246,Avery,764816
+mug building,Production Planning,422615,Sam,286117
+clothing,Quality Control Inspection,263139,Alexis,801517
+photo making,Strategic Planning,996787,Dakota,979048
+mug building,Packaging,741552,Kerry,623674
+pens printing,Human Resources Management,265271,Nicky,796858

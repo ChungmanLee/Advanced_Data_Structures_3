@@ -1,0 +1,10 @@
+mug building,Material Handling,80529,Tracy,679828
+mug building,Process Improvement,165604,Avery,793486
+clothing,Inventory Management,19623,Pat,815290
+mug building,Process Improvement,417201,Carmen,518431
+photo making,Equipment Maintenance,621429,Jessie,499035
+clothing,Shipping and Receiving,287004,Marion,243204
+photo making,Human Resources Management,236008,Bailey,144240
+card printing,Human Resources Management,815720,Andy,413743
+clothing,Strategic Planning,866112,Tyler,600327
+pens printing,Production Planning,655942,Casey,630241
