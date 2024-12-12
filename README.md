@@ -1,6 +1,6 @@
 # COMP47500 – Advanced Data Structures in Java
 # Project No: 3
-# Leveraging HashTable to handle bulk orders in an Order Management System
+# Implementing Priority Queue to handle orders at a Manufacturing Workstation
 
 ## Group Details
 	2320077  - Prakash Jha
